@@ -44,6 +44,7 @@ The dashboard uses a dataset named flights_important_features.csv, which contain
   Create a new app and link it to your GitHub repository.
   Specify the Fligh_Delay_Dashboard2.py as the main file for the app.
   Deploy your app and share the link!
+  https://flight-delay-dashboard-jkndvncdctbnjxjjvc3wsu.streamlit.app
 # Example Visualizations
 
   Delay Distribution
